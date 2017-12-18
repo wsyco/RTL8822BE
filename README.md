@@ -2,7 +2,6 @@
 ## Software Package - Component
 
 	1. ReleaseNotes.pdf
-
 	2. document/
 		2.1 Quick_Start_Guide_for_Driver_Compilation_and_Installation.pdf
 		2.2 Quick_Start_Guide_for_Station_Mode.pdf
@@ -150,58 +149,56 @@
 	
 
 ## User Guide for Driver compilation and installation
-			(*) Please refer to document/Quick_Start_Guide_for_Driver_Compilation_and_Installation.pdf
+	(*) Please refer to document/Quick_Start_Guide_for_Driver_Compilation_and_Installation.pdf
 
 ## User Guide for Station mode
-			(*) Please refer to document/Quick_Start_Guide_for_Station_Mode.pdf
+	(*) Please refer to document/Quick_Start_Guide_for_Station_Mode.pdf
 
 ## User Guide for Soft-AP mode
-			(*) Please refer to document/Quick_Start_Guide_for_SoftAP.pdf
-			(*) Please refer to document/linux_dhcp_server_notes.txt
+	(*) Please refer to document/Quick_Start_Guide_for_SoftAP.pdf
+	(*) Please refer to document/linux_dhcp_server_notes.txt
 
 ## User Guide for Wi-Fi Direct
+	Wi-Fi Direct with nl80211
+	(*) Please use:
+	wpa_supplicant_8_jb_4.2_rtw_rxxxx.xxxxxxxx.tar.gz
+	or
+	wpa_supplicant_8_kk_4.4_rtw_rxxxx.xxxxxxxx.tar.gz
+	or
+	wpa_supplicant_8_L_5.x_rtw_rxxxx.xxxxxxxx.tar.gz
+	or
+	wpa_supplicant_8_M_6.x_rtw_rxxxx.xxxxxxxx.tar.gz
+	or
+	wpa_supplicant_8_N_7.x_rtw_rxxxx.xxxxxxxx.tar.gz
 
-		Wi-Fi Direct with nl80211
-			(*) Please use:
-					wpa_supplicant_8_jb_4.2_rtw_rxxxx.xxxxxxxx.tar.gz
-				or
-					wpa_supplicant_8_kk_4.4_rtw_rxxxx.xxxxxxxx.tar.gz
-				or
-					wpa_supplicant_8_L_5.x_rtw_rxxxx.xxxxxxxx.tar.gz
-				or
-					wpa_supplicant_8_M_6.x_rtw_rxxxx.xxxxxxxx.tar.gz
-				or
-					wpa_supplicant_8_N_7.x_rtw_rxxxx.xxxxxxxx.tar.gz
-
-			(*) For P2P instruction/command, please refer to:
-					README-P2P inside the wpa_supplicant folder of the wpa_supplicant_8 you choose
-			(*) For DHCP server, please refer to:
-					document/linux_dhcp_server_notes.txt
+	(*) For P2P instruction/command, please refer to:
+		README-P2P inside the wpa_supplicant folder of the wpa_supplicant_8 you choose
+	(*) For DHCP server, please refer to:
+		document/linux_dhcp_server_notes.txt
+		
 ## User Guide for WPS2.0
+	(*) Please use:
+	wpa_supplicant_8_jb_4.2_rtw_rxxxx.xxxxxxxx.tar.gz
+	or
+	wpa_supplicant_8_kk_4.4_rtw_rxxxx.xxxxxxxx.tar.gz
+	or
+	wpa_supplicant_8_L_5.x_rtw_rxxxx.xxxxxxxx.tar.gz
+	or
+	wpa_supplicant_8_M_6.x_rtw_rxxxx.xxxxxxxx.tar.gz
+	or
+	wpa_supplicant_8_N_7.x_rtw_rxxxx.xxxxxxxx.tar.gz
 
-			(*) Please use:
-					wpa_supplicant_8_jb_4.2_rtw_rxxxx.xxxxxxxx.tar.gz
-				or
-					wpa_supplicant_8_kk_4.4_rtw_rxxxx.xxxxxxxx.tar.gz
-				or
-					wpa_supplicant_8_L_5.x_rtw_rxxxx.xxxxxxxx.tar.gz
-				or
-					wpa_supplicant_8_M_6.x_rtw_rxxxx.xxxxxxxx.tar.gz
-				or
-					wpa_supplicant_8_N_7.x_rtw_rxxxx.xxxxxxxx.tar.gz
-
-			(*) For WPS instruction/command, please refert to:
-					README-WPS inside the wpa_supplicant folder of the wpa_supplicant_8 you choose
+	(*) For WPS instruction/command, please refert to:
+		README-WPS inside the wpa_supplicant folder of the wpa_supplicant_8 you choose
 
 ## User Guide for Power Saving Mode
-			(*) Please refer to document/HowTo_enable_the_power_saving_functionality.pdf
+	(*) Please refer to document/HowTo_enable_the_power_saving_functionality.pdf
 
 ## User Guide for Applying Wi-Fi solution onto Andriod System
-
-			(*) For Android 1.6 ~ 2.3, 4.0, 4.1, 4.3, please contact us for further information
-			(*) For Android 4.2, please refer to android_ref_codes_JB_4.2/Realtek_Wi-Fi_SDK_for_Android_JB_4.2.pdf
-			(*) For Android 4.4, please refer to android_ref_codes_KK_4.4/Realtek_Wi-Fi_SDK_for_Android_KK_4.4.pdf
-			(*) For Android 5.x, please refer to android_ref_codes_L_5.x/Realtek_Wi-Fi_SDK_for_Android_L_5.x.pdf
-			(*) For Android 6.x, please refer to android_ref_codes_M_6.x/Realtek_Wi-Fi_SDK_for_Android_M_6.x.pdf
-			(*) For Android 7.x, please refer to android_ref_codes_M_7.0/Realtek_Wi-Fi_SDK_for_Android_N_7.0.pdf
+	(*) For Android 1.6 ~ 2.3, 4.0, 4.1, 4.3, please contact us for further information
+	(*) For Android 4.2, please refer to android_ref_codes_JB_4.2/Realtek_Wi-Fi_SDK_for_Android_JB_4.2.pdf
+	(*) For Android 4.4, please refer to android_ref_codes_KK_4.4/Realtek_Wi-Fi_SDK_for_Android_KK_4.4.pdf
+	(*) For Android 5.x, please refer to android_ref_codes_L_5.x/Realtek_Wi-Fi_SDK_for_Android_L_5.x.pdf
+	(*) For Android 6.x, please refer to android_ref_codes_M_6.x/Realtek_Wi-Fi_SDK_for_Android_M_6.x.pdf
+	(*) For Android 7.x, please refer to android_ref_codes_M_7.0/Realtek_Wi-Fi_SDK_for_Android_N_7.0.pdf
 
