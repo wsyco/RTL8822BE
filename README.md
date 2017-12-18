@@ -1,5 +1,5 @@
 
-Software Package - Component
+## Software Package - Component
 
 	1. ReleaseNotes.pdf
 
@@ -148,22 +148,18 @@ Software Package - Component
 		Documents and utilities for MP.
 		Could be used for EMI tests such as FCC and ETSI tests too.
 	
-==================================================================================================================
-		User Guide for Driver compilation and installation
-==================================================================================================================
+
+## User Guide for Driver compilation and installation
 			(*) Please refer to document/Quick_Start_Guide_for_Driver_Compilation_and_Installation.pdf
-==================================================================================================================
-		User Guide for Station mode
-==================================================================================================================
+
+## User Guide for Station mode
 			(*) Please refer to document/Quick_Start_Guide_for_Station_Mode.pdf
-==================================================================================================================
-		User Guide for Soft-AP mode
-==================================================================================================================
+
+## User Guide for Soft-AP mode
 			(*) Please refer to document/Quick_Start_Guide_for_SoftAP.pdf
 			(*) Please refer to document/linux_dhcp_server_notes.txt
-==================================================================================================================
-		User Guide for Wi-Fi Direct
-==================================================================================================================
+
+## User Guide for Wi-Fi Direct
 
 		Wi-Fi Direct with nl80211
 			(*) Please use:
@@ -181,9 +177,8 @@ Software Package - Component
 					README-P2P inside the wpa_supplicant folder of the wpa_supplicant_8 you choose
 			(*) For DHCP server, please refer to:
 					document/linux_dhcp_server_notes.txt
-==================================================================================================================
-		User Guide for WPS2.0
-==================================================================================================================
+## User Guide for WPS2.0
+
 			(*) Please use:
 					wpa_supplicant_8_jb_4.2_rtw_rxxxx.xxxxxxxx.tar.gz
 				or
@@ -197,13 +192,12 @@ Software Package - Component
 
 			(*) For WPS instruction/command, please refert to:
 					README-WPS inside the wpa_supplicant folder of the wpa_supplicant_8 you choose
-==================================================================================================================
-		User Guide for Power Saving Mode
-==================================================================================================================
+
+## User Guide for Power Saving Mode
 			(*) Please refer to document/HowTo_enable_the_power_saving_functionality.pdf
-==================================================================================================================
-		User Guide for Applying Wi-Fi solution onto Andriod System
-==================================================================================================================
+
+## User Guide for Applying Wi-Fi solution onto Andriod System
+
 			(*) For Android 1.6 ~ 2.3, 4.0, 4.1, 4.3, please contact us for further information
 			(*) For Android 4.2, please refer to android_ref_codes_JB_4.2/Realtek_Wi-Fi_SDK_for_Android_JB_4.2.pdf
 			(*) For Android 4.4, please refer to android_ref_codes_KK_4.4/Realtek_Wi-Fi_SDK_for_Android_KK_4.4.pdf
